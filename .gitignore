@@ -1,0 +1,16 @@
+/.bash_aliases
+/.bash_logout
+/.bashrc
+/.cache
+/.config
+/.crio-internal
+/.gitconfig
+/.gradle
+/.java
+/.local
+/.npm-interceptor
+/.pnpm-store
+/.profile
+/.rest-client
+/.ssh
+/workspace
